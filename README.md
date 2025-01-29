@@ -5,6 +5,8 @@
 ## Overview
 This project implements an end-to-end **multimodal sentiment analysis system** that processes video content to detect emotions and sentiments by analyzing three modalities: speech text, visual frames, and audio characteristics. The system employs deep learning to fuse these modalities into a unified model, demonstrating advanced skills in multimodal AI engineering.
 
+![Demo Video](https://github.com/user-attachments/assets/6ad94741-57bb-438e-82cd-cf10721e9699)
+
 ---
 
 ## Model Architecture
@@ -123,5 +125,3 @@ The core innovation lies in the **late fusion architecture** that combines extra
 - Plotly (Data Visualization)
 - CSS (UI Styling)
 
-
-This README emphasizes architectural decisions and technical depth while maintaining readability. It highlights transferable skills important for resume presentations, with clear sectioning for easy scanning by technical recruiters. The placeholder image location can be replaced with an actual architecture diagram for enhanced visual impact.
