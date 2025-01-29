@@ -107,21 +107,4 @@ The core innovation lies in the **late fusion architecture** that combines extra
 
 ---
 
-## Technology Stack
-
-**Core AI**:
-- PyTorch (Model Development)
-- Transformers (BERT Text Encoder)
-- Whisper (Speech Recognition)
-- OpenCV (Video Processing)
-
-**Backend**:
-- FFmpeg (Video Processing)
-- TorchAudio (Audio Features)
-- NumPy (Array Operations)
-
-**Frontend**:
-- Streamlit (Web Interface)
-- Plotly (Data Visualization)
-- CSS (UI Styling)
-
+![ - visual selection-2](https://github.com/user-attachments/assets/5e5ef465-2b7e-4f90-b0d8-633c480658e3)
